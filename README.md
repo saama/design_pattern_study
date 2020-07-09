@@ -1,2 +1,1 @@
-# design_pattern_study
-design_pattern_study
+실무에 적용해보는것을 목표로 디자인패턴 공부
